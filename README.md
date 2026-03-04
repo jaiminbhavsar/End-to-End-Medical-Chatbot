@@ -60,6 +60,7 @@ open up localhost:
 
 
 479623627874.dkr.ecr.us-east-1.amazonaws.com/medicalbot -- ECR
+only put medicalbot -- name in secret in github
 # AWS-CICD-Deployment-with-Github-Actions
 
 ## 1. Login to AWS console.
